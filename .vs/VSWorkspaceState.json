@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\actions",
+    "\\cypress\\disabled",
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\app-x",
+    "\\cypress\\integration\\nomie6",
+    "\\cypress\\plugins",
+    "\\cypress\\support"
+  ],
+  "SelectedNode": "\\public\\app-icons",
+  "PreviewInSolutionExplorer": false
+}
